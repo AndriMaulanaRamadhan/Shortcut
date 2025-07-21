@@ -1,3 +1,11 @@
 ctrl + n = new file
 ctrl + shift + n = new window
 ctrl + , = settings
+ctrl+ o = open file
+ctrl + k ctrl + o = open folder
+ctrl + s = save
+ctrl + shift + s = save as
+ctrl + k s = save all
+ctrl + f4 = close editor
+ctrl + k f = close workspace
+alt + f4 = close window
