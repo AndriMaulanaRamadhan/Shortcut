@@ -1,0 +1,3 @@
+ctrl + n = new file
+ctrl + shift + n = new window
+ctrl + , = settings
