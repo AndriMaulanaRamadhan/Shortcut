@@ -1,0 +1,4 @@
+ctrl + enter = untuk melihat solusi yang ditawarkan copilot
+alt + > atau < = untuk melihat solusi yang lain
+
+tips : bisa kasih komentar dulu sebelum mengetik kode untuk memancing copilot menemukan solusi yang kita mau
